@@ -1,0 +1,156 @@
+order_id,order_date,customer_email,product,category,quantity,unit_price,sales_channel,city
+1,2025-03-23,,Headphones,,1,999,Online,
+2,2025-02-24,customer2@email.com,Laptop,,1,999,Store,Pune
+3,2025-03-25,,Laptop,Furniture,0,12999,mobile,delhi
+4,2025-02-13, CUSTOMER4@EMAIL.COM ,Headphones,electronics,1,2499,Online,Bengaluru
+5,2025-04-19,,  Laptop ,Electronics,0,2499,STORE,Delhi
+6,2025-03-12,,Laptop,Furniture,,2499,,Bengaluru
+7,2025-01-11,customer7@email.com,Mouse,Furniture,1,,online,Bengaluru
+8,2025-01-27,customer8@email.com,Monitor,Furniture,2,12999,STORE,delhi
+9,2025-02-04, CUSTOMER9@EMAIL.COM ,Laptop,Furniture,,12999,,Delhi
+10,2025-04-14,,Mouse,Furniture,3,2499,mobile,delhi
+11,2025-02-20, CUSTOMER11@EMAIL.COM ,  Laptop ,,3,12999,online,Pune
+12,2025-03-16,,Desk Chair,,0,4999,STORE,Delhi
+13,2025-04-07, CUSTOMER13@EMAIL.COM ,Webcam,,1,999,Online,delhi
+14,2025-02-18,,Laptop,Electronics,3,7999,mobile,
+15,2025-04-07,,,Electronics,,2499,mobile,Pune
+16,2025-02-03,customer16@email.com,  Laptop ,,1,7999,Store,Mumbai
+17,2025-02-17,customer17@email.com,Headphones,Accessories,1,,,Bengaluru
+18,2025-01-31,customer18@email.com,Headphones,,1,999,,Mumbai
+19,2025-01-17, CUSTOMER19@EMAIL.COM ,Webcam,Furniture,3,12999,Mobile,Pune
+20,2025-03-30,,Mouse,electronics,,1499,Mobile,delhi
+21,2025-01-16,customer21@email.com,Monitor,,1,1499,Store,Delhi
+22,2025-01-10,customer22@email.com,Mouse,Electronics,,12999,Mobile,Mumbai
+23,2025-02-05, CUSTOMER23@EMAIL.COM ,,Furniture,3,12999,,delhi
+24,2025-04-14,customer24@email.com,Webcam,electronics,1,4999,STORE,Pune
+25,2025-01-07,customer25@email.com,Headphones,Furniture,,12999,Store,Mumbai
+26,2025-03-10,,Headphones,electronics,1,4999,,
+27,2025-01-13,customer27@email.com,Monitor,Furniture,,999,STORE,delhi
+28,2025/04/31,customer28@email.com,Keyboard,electronics,3,1499,online,delhi
+29,2025-03-31,,Laptop,,0,12999,mobile,
+30,2025-01-08,customer30@email.com,  Laptop ,Furniture,2,12999,Online,
+31,2025-01-11,customer31@email.com,Monitor,electronics,1,,Online,
+32,2025-02-01,customer32@email.com,  Laptop ,Accessories,0,7999,online,Mumbai
+33,2025-03-27, CUSTOMER33@EMAIL.COM ,Keyboard,electronics,2,12999,online,Delhi
+34,2025-01-02,customer34@email.com,Keyboard,Furniture,0,4999,online,Delhi
+35,2025-04-23,,Keyboard,,2,1499,,Pune
+36,2025-03-09,,Desk Chair,Accessories,,999,Online,Delhi
+37,2025-04-06,,Mouse,Furniture,1,7999,mobile,Pune
+38,2025-04-20,,Laptop,Electronics,0,2499,mobile,delhi
+39,2025-04-17,customer39@email.com,Keyboard,Furniture,1,2499,mobile,delhi
+40,2025-03-12,customer40@email.com,Desk Chair,,3,12999,Online,Bengaluru
+41,2025-03-16,,Laptop,Accessories,1,7999,Store,Pune
+42,2025-02-01,,Webcam,,1,12999,mobile,Mumbai
+43,not a date, CUSTOMER43@EMAIL.COM ,Mouse,electronics,1,1499,,Pune
+44,2025-04-21,,Webcam,Electronics,1,12999,,delhi
+45,2025-01-29,,Monitor,Furniture,3,1499,Online,Pune
+46,2025-01-25,,Keyboard,Accessories,2,4999,mobile,
+47,2025-02-21,,Keyboard,Furniture,0,12999,Mobile,Bengaluru
+48,2025-01-05,,Webcam,,0,999,Mobile,Delhi
+49,2025-02-19,,  Laptop ,,1,7999,mobile,Pune
+50,2025-05-01, CUSTOMER50@EMAIL.COM ,Mouse,,,12999,online,Pune
+51,2025-04-19,,Mouse,electronics,,999,mobile,Bengaluru
+52,2025-03-12,,Desk Chair,,1,1499,Mobile,Bengaluru
+53,2025-02-21,,Mouse,electronics,1,7999,STORE,delhi
+54,2025-03-28,,Desk Chair,Electronics,0,1499,online,
+55,2025-03-26,,Monitor,Accessories,0,12999,Store,Mumbai
+56,2025-01-19, CUSTOMER56@EMAIL.COM ,Headphones,electronics,1,999,STORE,Pune
+57,2025-03-15,,Laptop,Electronics,,1499,,delhi
+58,2025-01-29,,Headphones,electronics,,1499,Store,delhi
+59,2025-03-27,,  Laptop ,electronics,0,7999,,
+60,2025-02-27,,Keyboard,,,1499,STORE,Pune
+61,2025-01-31,customer61@email.com,Mouse,Accessories,3,2499,Mobile,Delhi
+62,2025-01-18,,Headphones,electronics,1,1499,STORE,Bengaluru
+63,2025-03-11,customer63@email.com,Laptop,,3,4999,STORE,delhi
+64,2025-01-01,,Webcam,,2,2499,mobile,Pune
+65,2025-03-11, CUSTOMER65@EMAIL.COM ,,Electronics,0,,STORE,Bengaluru
+66,2025-03-27, CUSTOMER66@EMAIL.COM ,  Laptop ,Electronics,3,12999,STORE,
+67,2025-03-14,customer67@email.com,,Furniture,1,12999,Online,Bengaluru
+68,2025-02-18,,Webcam,Accessories,1,2499,,delhi
+,2025-02-02,,Mouse,Furniture,1,,mobile,Delhi
+70,2025-04-10,customer70@email.com,Laptop,,1,12999,Store,Mumbai
+71,2025-01-17,customer71@email.com,Keyboard,Accessories,,4999,Store,
+72,2025-03-19,customer72@email.com,Keyboard,Electronics,,12999,Mobile,Delhi
+73,2025-04-29,,Headphones,,0,2499,mobile,Pune
+74,2025-02-01,,Headphones,,,999,,Delhi
+75,2025-02-14,,Laptop,electronics,3,7999,,delhi
+76,2025-01-14,,  Laptop ,Accessories,2,4999,Mobile,
+77,2025-04-10,,Mouse,Furniture,3,4999,,Delhi
+78,2025-02-05,,Mouse,Electronics,1,4999,STORE,Bengaluru
+79,2025-01-24,,Keyboard,,1,4999,Online,
+80,2025-01-25,,,electronics,1,999,STORE,Delhi
+81,2025-01-12,,Mouse,electronics,1,2499,Mobile,
+82,2025-02-14,,Keyboard,Accessories,,4999,Store,Delhi
+83,2025-04-03,customer83@email.com,Desk Chair,Furniture,2,1499,Store,Pune
+84,2025-03-03,,Keyboard,Furniture,,2499,online,Mumbai
+85,2025-02-08, CUSTOMER85@EMAIL.COM ,  Laptop ,Accessories,,999,mobile,Mumbai
+86,2025-03-23,customer86@email.com,,electronics,3,,STORE,Bengaluru
+87,2025-01-24,,,Electronics,2,999,Mobile,Pune
+88,2025-03-29, CUSTOMER88@EMAIL.COM ,Headphones,Furniture,1,999,Online,
+89,2025-04-08, CUSTOMER89@EMAIL.COM ,,Accessories,0,4999,,
+90,2025-02-24,customer90@email.com,Monitor,Furniture,0,2499,online,Pune
+91,2025-01-11, CUSTOMER91@EMAIL.COM ,Webcam,electronics,1,1499,mobile,
+92,2025-03-02, CUSTOMER92@EMAIL.COM ,,Electronics,1,2499,mobile,Mumbai
+93,2025-04-29, CUSTOMER93@EMAIL.COM ,Desk Chair,Accessories,,2499,,Mumbai
+94,2025-01-10,,Keyboard,electronics,1,999,Online,delhi
+95,2025-03-30,,,electronics,,2499,Online,
+96,,,Laptop,Accessories,,4999,Mobile,Delhi
+97,2025-04-08,,Keyboard,Furniture,1,,Mobile,delhi
+98,2025-03-23,customer98@email.com,Mouse,Electronics,3,,,Mumbai
+99,2025-02-12,,  Laptop ,Electronics,,4999,STORE,Delhi
+100,2025-02-10,customer100@email.com,  Laptop ,Electronics,2,2499,mobile,
+101,2025-03-01, CUSTOMER101@EMAIL.COM ,,electronics,1,4999,,Delhi
+102,2025-01-27, CUSTOMER102@EMAIL.COM ,,Electronics,0,2499,Online,Pune
+103,2025/04/31, CUSTOMER103@EMAIL.COM ,Headphones,Furniture,1,,,Delhi
+104,2025-03-01, CUSTOMER104@EMAIL.COM ,  Laptop ,Accessories,,999,STORE,delhi
+105,2025-03-02, CUSTOMER105@EMAIL.COM ,  Laptop ,Furniture,3,1499,,Delhi
+106,2025-02-05,,Laptop,Accessories,3,,mobile,Bengaluru
+107,2025-04-18,,,Accessories,0,7999,online,
+108,2025-04-08,,Monitor,,3,7999,STORE,Mumbai
+109,2025-04-20,customer109@email.com,Webcam,electronics,3,,mobile,Pune
+110,2025-01-20, CUSTOMER110@EMAIL.COM ,Headphones,electronics,1,4999,Online,
+111,2025-04-27, CUSTOMER111@EMAIL.COM ,Desk Chair,Electronics,1,4999,STORE,Bengaluru
+112,2025-02-13,,  Laptop ,electronics,,7999,online,Pune
+113,2025-04-02,customer113@email.com,Keyboard,Furniture,3,,mobile,Delhi
+114,2025-02-25,customer114@email.com,Laptop,Electronics,,999,online,Delhi
+115,2025-02-07,,Desk Chair,Furniture,2,2499,Store,Delhi
+116,2025-03-20, CUSTOMER116@EMAIL.COM ,Monitor,electronics,3,,mobile,Bengaluru
+117,2025-02-28,customer117@email.com,Keyboard,,,2499,Store,Delhi
+118,2025-02-26,,Keyboard,electronics,0,2499,,Bengaluru
+119,2025-01-26,customer119@email.com,Keyboard,Accessories,3,4999,Online,Pune
+120,2025-02-20,customer120@email.com,Keyboard,Furniture,1,2499,Mobile,Bengaluru
+121,2025-01-29,,Desk Chair,Electronics,1,12999,mobile,Pune
+122,2025-01-06,customer122@email.com,Headphones,Accessories,3,2499,online,Pune
+123,2025-02-23, CUSTOMER123@EMAIL.COM ,Mouse,,1,1499,Mobile,Bengaluru
+124,2025-04-17,,Mouse,Electronics,2,1499,STORE,Delhi
+125,2025-01-19,,Mouse,Electronics,1,,,delhi
+126,2025-01-02,customer126@email.com,Keyboard,,0,2499,STORE,Pune
+127,2025-05-01, CUSTOMER127@EMAIL.COM ,  Laptop ,Accessories,1,2499,Mobile,Mumbai
+128,2025-03-24,,Webcam,Electronics,,999,Store,Delhi
+129,2025-01-05,customer129@email.com,Desk Chair,electronics,3,2499,STORE,Bengaluru
+130,2025-03-27,,Webcam,Electronics,,12999,,delhi
+131,2025-03-20,customer131@email.com,,Furniture,2,4999,,Bengaluru
+132,2025-01-13,,Headphones,electronics,2,12999,Online,Pune
+133,2025-01-28,customer133@email.com,Desk Chair,,,12999,Store,Delhi
+134,2025-04-17, CUSTOMER134@EMAIL.COM ,Monitor,Accessories,0,,,Mumbai
+135,2025-04-11,,Desk Chair,,1,7999,online,Mumbai
+,2025-01-15, CUSTOMER136@EMAIL.COM ,Monitor,,1,12999,online,Delhi
+137,2025-01-23, CUSTOMER137@EMAIL.COM ,Headphones,electronics,1,2499,STORE,Bengaluru
+138,2025-03-07,,Laptop,,1,7999,online,delhi
+139,2025-03-24,,Headphones,electronics,1,999,mobile,delhi
+140,2025-01-10, CUSTOMER140@EMAIL.COM ,  Laptop ,Accessories,2,999,STORE,
+141,2025-03-09,,  Laptop ,Furniture,3,2499,STORE,delhi
+142,2025-04-24,,Headphones,Accessories,3,1499,STORE,Bengaluru
+143,2025-03-27, CUSTOMER143@EMAIL.COM ,Headphones,Electronics,2,2499,Online,delhi
+144,2025-01-13,,  Laptop ,,,12999,online,Pune
+145,2025-01-16,,Keyboard,,2,4999,online,Bengaluru
+146,2025-01-14, CUSTOMER146@EMAIL.COM ,Headphones,Accessories,0,7999,,
+147,2025-02-17, CUSTOMER147@EMAIL.COM ,  Laptop ,Electronics,2,999,Mobile,Pune
+148,2025-04-17,customer148@email.com,Keyboard,Accessories,2,12999,online,Delhi
+149,2025-01-24,,Laptop,Electronics,1,,mobile,
+150,2025-01-28,,Mouse,,3,4999,Mobile,Delhi
+1,2025-03-23,,Headphones,,1,999,Online,
+2,2025-02-24,customer2@email.com,Laptop,,1,999,Store,Pune
+3,2025-03-25,,Laptop,Furniture,0,12999,mobile,delhi
+4,2025-02-13, CUSTOMER4@EMAIL.COM ,Headphones,electronics,1,2499,Online,Bengaluru
+5,2025-04-19,,  Laptop ,Electronics,0,2499,STORE,Delhi
