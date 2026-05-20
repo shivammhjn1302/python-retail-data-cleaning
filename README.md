@@ -1,29 +1,30 @@
-# Python Retail Data Cleaning — Beginner Project
+# Retail Orders Data Cleaning Lab
 
-A beginner-friendly Python project that cleans a messy retail order dataset using Pandas.
+A Python data-cleaning project built around a messy retail orders dataset: missing values, duplicate rows, inconsistent dates, noisy text fields, and revenue validation.
 
-## Skills Demonstrated
+The theme is **back-office retail operations** — the less glamorous but very real work that makes dashboards reliable.
+
+## What this project shows
 
 - Reading CSV files with Pandas
-- Handling missing values
-- Removing duplicates
+- Handling missing values and duplicate records
 - Standardizing text columns
 - Converting dates and numeric fields
-- Creating a clean revenue metric
+- Creating and validating clean revenue metrics
 - Exporting cleaned data and a cleaning summary
 
-## Run
+## Run locally
 
 ```bash
 pip install -r requirements.txt
 python scripts/clean_retail_orders.py
 ```
 
-## Output
+## Outputs
 
 - `data/cleaned/retail_orders_cleaned.csv`
 - `reports/cleaning_summary.md`
 
-## Portfolio Summary
+## Portfolio summary
 
-Cleaned messy retail transaction data and prepared it for dashboarding/analysis by validating IDs, dates, revenue fields, and customer/product dimensions.
+Cleaned messy retail transaction data and prepared it for dashboarding by validating IDs, dates, revenue fields, and customer/product dimensions.
